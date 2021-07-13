@@ -1,0 +1,29 @@
+_repo: Il-castello-di-Trezzo-Novella-storica_65680
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bazzoni, Giambattista
+    aliases:
+    - Bazzoni, G. B. (Giambattista)
+    - Bazzoni, Giovanni Battista
+    birthdate: 1803
+    deathdate: 1850
+    gutenberg_agent_id: '32453'
+    url: http://www.gutenberg.org/2009/agents/32453
+    wikipedia: https://it.wikipedia.org/wiki/Giambattista_Bazzoni
+description: ''
+gutenberg_issued: '2021-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65680'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lombardy (Italy) -- History -- 14th century -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PQ'
+- GITenberg
+title: 'Il castello di Trezzo: Novella storica'
+url: http://www.gutenberg.org/ebooks/65680
